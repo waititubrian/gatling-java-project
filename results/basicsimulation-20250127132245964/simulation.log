@@ -1,0 +1,5 @@
+RUN	simulations.BasicSimulation	basicsimulation	1737984165964	 	3.9.5
+USER	Test API with Authentication	START	1737984168069
+REQUEST		Authenticate	1737984167764	1737984168827	KO	status.find.in([200, 209], 304), found 415
+ERROR	Get Cover Types: Failed to build request: No attribute named 'jwtToken' is defined 	1737984173909
+USER	Test API with Authentication	END	1737984178920

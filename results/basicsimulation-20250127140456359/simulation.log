@@ -1,0 +1,5 @@
+RUN	simulations.BasicSimulation	basicsimulation	1737986696359	 	3.9.5
+USER	Test API with Authentication	START	1737986698620
+REQUEST		Authenticate	1737986698344	1737986699631	OK	 
+REQUEST		Get Cover Types	1737986704791	1737986706020	OK	 
+USER	Test API with Authentication	END	1737986711032

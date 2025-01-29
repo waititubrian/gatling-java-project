@@ -1,0 +1,5 @@
+RUN	simulations.BasicSimulation	basicsimulation	1737982982716	 	3.9.5
+USER	Test API with Authentication	START	1737982984642
+REQUEST		Authenticate	1737982984364	1737982985863	KO	status.find.in([200, 209], 304), found 415
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1737982990935
+USER	Test API with Authentication	END	1737982995946

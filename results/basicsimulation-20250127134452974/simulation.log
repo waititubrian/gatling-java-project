@@ -1,0 +1,5 @@
+RUN	simulations.BasicSimulation	basicsimulation	1737985492974	 	3.9.5
+USER	Test API with Authentication	START	1737985495362
+REQUEST		Authenticate	1737985494751	1737985496483	OK	 
+REQUEST		Get Cover Types	1737985501697	1737985502531	KO	status.find.is(200), but actually found 404
+USER	Test API with Authentication	END	1737985507582
