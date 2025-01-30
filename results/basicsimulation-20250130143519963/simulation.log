@@ -1,0 +1,41 @@
+RUN	simulations.BasicSimulation	basicsimulation	1738247719963	 	3.9.5
+USER	Test API with Authentication	START	1738247720837
+USER	Test API with Authentication	START	1738247720838
+USER	Test API with Authentication	START	1738247720838
+USER	Test API with Authentication	START	1738247720838
+USER	Test API with Authentication	START	1738247720837
+USER	Test API with Authentication	START	1738247720838
+USER	Test API with Authentication	START	1738247720837
+USER	Test API with Authentication	START	1738247720837
+USER	Test API with Authentication	START	1738247720838
+USER	Test API with Authentication	START	1738247720838
+REQUEST		Authenticate	1738247720800	1738247721920	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720799	1738247722115	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720799	1738247722115	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720799	1738247722116	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720800	1738247722115	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720799	1738247722114	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720800	1738247722115	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720800	1738247722117	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720800	1738247722118	KO	status.find.in([200, 209], 304), found 401
+REQUEST		Authenticate	1738247720799	1738247722119	KO	status.find.in([200, 209], 304), found 401
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247726981
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727118
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727119
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727120
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727120
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727120
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727120
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727120
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727120
+ERROR	Get Cover Types: Failed to build request: No attribute named 'accessToken' is defined 	1738247727121
+USER	Test API with Authentication	END	1738247732002
+USER	Test API with Authentication	END	1738247732122
+USER	Test API with Authentication	END	1738247732122
+USER	Test API with Authentication	END	1738247732122
+USER	Test API with Authentication	END	1738247732123
+USER	Test API with Authentication	END	1738247732123
+USER	Test API with Authentication	END	1738247732123
+USER	Test API with Authentication	END	1738247732123
+USER	Test API with Authentication	END	1738247732124
+USER	Test API with Authentication	END	1738247732124

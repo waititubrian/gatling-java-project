@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.BasicSimulation",
+  "simulationId": "basicsimulation-20250130211020588",
+  "start": 1738271421622,
+  "description": "",
+  "scenarios": ["Test API with Authentication"],
+  "assertions": [
+
+  ]
+}

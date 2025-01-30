@@ -1,0 +1,41 @@
+RUN	simulations.BasicSimulation	basicsimulation	1738249175591	 	3.9.5
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176942
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176942
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176941
+USER	Test API with Authentication	START	1738249176941
+REQUEST		Authenticate	1738249176344	1738249177803	OK	 
+REQUEST		Authenticate	1738249176344	1738249177806	OK	 
+REQUEST		Authenticate	1738249176344	1738249177936	OK	 
+REQUEST		Authenticate	1738249176344	1738249177937	OK	 
+REQUEST		Authenticate	1738249176344	1738249178060	OK	 
+REQUEST		Authenticate	1738249176344	1738249178063	OK	 
+REQUEST		Authenticate	1738249176344	1738249178189	OK	 
+REQUEST		Authenticate	1738249176344	1738249178216	OK	 
+REQUEST		Authenticate	1738249176344	1738249178304	OK	 
+REQUEST		Authenticate	1738249176344	1738249178326	OK	 
+REQUEST		Get Cover Types	1738249182863	1738249183623	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249182939	1738249183636	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249182863	1738249183622	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249182939	1738249183623	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249183066	1738249183785	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249183067	1738249183787	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249183196	1738249183881	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249183220	1738249183897	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249183309	1738249184009	KO	status.find.is(200), but actually found 401
+REQUEST		Get Cover Types	1738249183330	1738249184052	KO	status.find.is(200), but actually found 401
+USER	Test API with Authentication	END	1738249188694
+USER	Test API with Authentication	END	1738249188694
+USER	Test API with Authentication	END	1738249188695
+USER	Test API with Authentication	END	1738249188695
+USER	Test API with Authentication	END	1738249188790
+USER	Test API with Authentication	END	1738249188791
+USER	Test API with Authentication	END	1738249188886
+USER	Test API with Authentication	END	1738249188904
+USER	Test API with Authentication	END	1738249189017
+USER	Test API with Authentication	END	1738249189058
